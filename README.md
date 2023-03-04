@@ -8,8 +8,8 @@
   const victor = {
     sobre: "Meu nome é Victor Nathan Alves Gomes, tenho 18 anos e estou cursando o 3° ano de Desenvolvimento de Sistemas",
     conhecimentos: {
-      backend: [ Node.js, NestJS, Prisma, Sequelize, Knex.js, MySql, MongoDb ],
-      frontend: [ React, Html, Css, JavaScript ],
+      backend: [ Node.js, NestJS, Prisma, Sequelize, Knex.js, MySql, MongoDb, PHP, Laravel ],
+      frontend: [ React, HTML, CSS, JavaScript ],
       mobile: [ ReactNative ]
     }
   }
