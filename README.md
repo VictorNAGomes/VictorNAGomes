@@ -6,7 +6,7 @@
 
 ```javascript
   const victor = {
-    sobre: "Meu nome é Victor Nathan Alves Gomes, tenho 19 anos e estou cursando o 3° módulo de Análise e Desenvolvimento de Sistemas",
+    sobre: "Meu nome é Victor Nathan Alves Gomes, tenho 20 anos e estou cursando o 5° módulo de Análise e Desenvolvimento de Sistemas",
     conhecimentos: {
       backend: [ "Node.js", "NestJS", "Prisma", "Sequelize", "Knex.js", "MySql", "PHP", "Laravel" ],
       frontend: [ "React", "Next.js", "HTML", "CSS", "JavaScript" ],
